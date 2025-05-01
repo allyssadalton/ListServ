@@ -1,0 +1,112 @@
+/*Allyssa Dalton
+March 3rd 2025*/
+ 
+ h1, h3{
+    text-align: center;
+}
+
+h2{
+    font-size: 24px;
+    text-align: center;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+}
+
+.subscribeForm{
+    margin-left: 15px;
+    float: left; 
+}
+
+.unsubscribeForm{
+    margin-right: 15px;
+    float: right;
+}
+
+.emailLists{ 
+    float: left;
+    text-align: center;
+    background-color: #ceb3b1;
+    padding: 10px;
+    border: 15px, solid, white;
+}
+
+.emails{
+    float: left;
+    text-align: center;
+    background-color: #ceb3b1;
+    padding: 10px;
+    border: 15px, solid, white;
+}
+
+.emailSubscriptions{
+    float: left;
+    text-align: center;
+    background-color: #ceb3b1;
+    padding: 10px;
+    border: 15px, solid, white;
+}
+
+.SMSLists{
+    float: right;
+    text-align: center;
+    background-color: #ceb3b1;
+    padding: 10px;
+    border: 15px, solid, white;
+}
+
+.phonenumbers{
+    float: right;
+    text-align: center;
+    background-color: #ceb3b1;
+    padding: 10px;
+    border: 15px, solid, white;
+}
+
+.SMSSubscriptions{
+    float: right;
+    text-align: center;
+    background-color: #ceb3b1;
+    padding: 10px;
+    border: 15px, solid, white;
+}
+
+
+.changeEmailLists{
+    padding: 10px;
+    text-align: center;
+}
+.changeSMSLists{
+    padding: 10px;
+    text-align: center;
+}
+.addlist{
+    clear: both;
+    float: left;
+    padding-left: 10%;
+    text-align: center;
+}
+
+.removelist{
+    float: right;
+    text-align: center;
+    padding-right: 10%;
+}
+
+.php{
+    text-align: center;
+}
